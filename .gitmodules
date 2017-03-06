@@ -1,0 +1,4 @@
+[submodule "course/format/ffhs"]
+	path = course/format/ffhs
+	url = git@github.com:liip-elearning/ffhs-course-format.git
+	branch = master
