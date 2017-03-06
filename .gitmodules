@@ -2,3 +2,7 @@
 	path = course/format/ffhs
 	url = https://github.com/liip-elearning/ffhs-course-format.git
 	branch = master
+[submodule "mod/ffhs"]
+	path = mod/ffhs
+	url = https://github.com/liip-elearning/ffhs-activity
+	branch = master
